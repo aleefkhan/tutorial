@@ -1,2 +1,3 @@
 # tutorial
-first repo
+ my first repo
+author - aleef khan
