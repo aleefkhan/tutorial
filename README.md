@@ -1,3 +1,3 @@
 # tutorial
  my first repo
-author - aleef khan
+author - aleef khan cr7
